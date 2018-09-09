@@ -1,6 +1,13 @@
-# Site's header
-title: Regina Sánchez
-
-description: Personal website
-
 theme: jekyll-theme-cayman
+
+# Site settings
+title: Regina Sánchez
+#email: youremailaddress@gmail.com
+description: Just a simple personal website.
+url: "" # the base hostname & protocol for your site
+
+# Social settings
+github_url: https://github.com/RegiSanchez
+
+# Build settings
+markdown: kramdown
