@@ -1,4 +1,4 @@
-# Highlights - Jekyll Theme
+# Regina Sánchez's Website
 
 A Jekyll version of the "Highlights" theme by [HTML5 UP](https://html5up.net/).
 
